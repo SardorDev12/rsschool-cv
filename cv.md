@@ -59,4 +59,8 @@ During University, I have participated:
 
 ## Languages
 
+- Uzbek (Native)
+- English (C1)
+- Russian (Intermediate)
+
 ---
