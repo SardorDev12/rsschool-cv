@@ -38,6 +38,16 @@ I have one year of experience in Accounting so I can easily work in Excel and 1C
 
 ## Skills and Proficiency:
 
+- Scratch
+- HTML
+- CSS
+- JavaScript
+- C#
+- SQL
+- Unity
+- Android Studio (Kotlin)
+- Figma
+
 ## Experience
 
 ## Languages
