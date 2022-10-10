@@ -15,6 +15,11 @@
 
 ## Education
 
+- 2020-2024 (third year student)
+  - Westminster International University in Tashkent
+- 2009-2020
+  - Public School No: 18
+
 ---
 
 ## About me:
