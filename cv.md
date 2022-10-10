@@ -50,6 +50,13 @@ I have one year of experience in Accounting so I can easily work in Excel and 1C
 
 ## Experience
 
+During University, I have participated:
+
+1. Coffee Shop Website
+2. Human Recources Management System (C#)
+3. Website Design for local Air Company (Figma)
+4. Salary Calculation System (C#)
+
 ## Languages
 
 ---
