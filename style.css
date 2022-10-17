@@ -20,13 +20,13 @@ ul {
 }
 
 /* header part */
-.logo-title-section {
+.logo-title-section > nav {
   display: flex;
   justify-content: flex-start;
   align-items: center;
 }
 
-.logo-title-section > div,
+.logo-title-section > nav>div,
 main > section {
   margin: 1rem 2rem 0 3rem;
 }
