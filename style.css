@@ -15,6 +15,9 @@ body {
   width: 80%;
   margin: 0 auto;
 }
+ul {
+  list-style: none;
+}
 
 /* header part */
 .logo-title-section {
@@ -62,12 +65,24 @@ section > div > h2::after {
   height: 3px;
   background-color: orange;
 }
-
-ul {
-  list-style: none;
+/* /Main */
+/* footer */
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.5rem;
+  margin: 1rem 0;
 }
 
-/* /Main */
+.github > a > i {
+  color: black;
+  font-size: 3rem;
+}
+.course > a > img {
+  height: 3rem;
+}
+/* /footer */
 
 /* Media queries */
 @media screen and (min-width: 760px) {
